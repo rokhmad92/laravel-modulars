@@ -1,0 +1,11 @@
+{
+    "name": "Other",
+    "alias": "other",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Other\\Providers\\OtherServiceProvider"
+    ],
+    "files": []
+}
